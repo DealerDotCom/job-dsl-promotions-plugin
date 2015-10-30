@@ -1,4 +1,4 @@
-# Promototed Builds Plugin Extension for the Jenkins Job DSL Plugin
+# Promoted Builds Plugin Extension for the Jenkins Job DSL Plugin
 
 This plugin is an extension for the existing [Job DSL Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Job+DSL+Plugin). With this extension it is possible to generate promotions with the Job DSL. See the [Promoted Builds Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Promoted+Builds+Plugin) for further informations about the meaning of Promotions for a Jenkins Job.
 
